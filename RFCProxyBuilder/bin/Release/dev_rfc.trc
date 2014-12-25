@@ -1,0 +1,25 @@
+
+**** ERROR file opened at 20141212 174456 中国标准时间, SAP-REL 700,0,68 RFC-VER 3 842334 MT-SL
+T:9764 Error in program 'RFCProxyBuilder': ======> Name or password is incorrect (repeat logon)
+T:9764 Error in program 'RFCProxyBuilder': <* RfcReceive [1] : returns 3:RFC_SYS_EXCEPTION
+
+**** ERROR file opened at 20141213 164259 中国标准时间, SAP-REL 700,0,68 RFC-VER 3 842334 MT-SL
+T:14328 Error in program 'RFCProxyBuilder': ======> Connect to SAP gateway failed
+Connect_PM  GWHOST=192.168.7.210, GWSERV=sapgw00, SYSNR=00
+
+LOCATION    CPIC (TCP/IP) on local host
+ERROR       partner '192.168.7.210:3300' not reached
+
+TIME        Sat Dec 13 16:42:59 2014
+RELEASE     700
+COMPONENT   NI (network interface)
+VERSION     38
+RC          -10
+MODULE      nixxi.cpp
+LINE        2764
+DETAIL      NiPConnect2
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     1
+

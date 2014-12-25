@@ -1,0 +1,14 @@
+F:\Project\TCS\SAPRFCBuilder\obj\Debug\SAPRFCBuilder.csprojResolveAssemblyReference.cache
+F:\Project\TCS\SAPRFCBuilder\obj\Debug\SAPRFCBuilder.frmFunctionSelect.resources
+F:\Project\TCS\SAPRFCBuilder\obj\Debug\SAPRFCBuilder.frmRFC.resources
+F:\Project\TCS\SAPRFCBuilder\obj\Debug\SAPRFCBuilder.frmSAPServerSetting.resources
+F:\Project\TCS\SAPRFCBuilder\obj\Debug\SAPRFCBuilder.Properties.Resources.resources
+F:\Project\TCS\SAPRFCBuilder\obj\Debug\SAPRFCBuilder.csproj.GenerateResource.Cache
+F:\Project\TCS\SAPRFCBuilder\bin\Debug\SAPRFCBuilder.exe
+F:\Project\TCS\SAPRFCBuilder\bin\Debug\SAPRFCBuilder.pdb
+F:\Project\TCS\SAPRFCBuilder\bin\Debug\SAPCOM.dll
+F:\Project\TCS\SAPRFCBuilder\bin\Debug\Searching.VTCore.dll
+F:\Project\TCS\SAPRFCBuilder\bin\Debug\SearchingCore.dll
+F:\Project\TCS\SAPRFCBuilder\bin\Debug\SAPCOM.pdb
+F:\Project\TCS\SAPRFCBuilder\obj\Debug\SAPRFCBuilder.exe
+F:\Project\TCS\SAPRFCBuilder\obj\Debug\SAPRFCBuilder.pdb

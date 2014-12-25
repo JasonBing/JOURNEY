@@ -1,0 +1,9 @@
+F:\Project\TCS\RFCProxyBuilder\bin\Release\RFCProxyBuilder.exe
+F:\Project\TCS\RFCProxyBuilder\bin\Release\RFCProxyBuilder.pdb
+F:\Project\TCS\RFCProxyBuilder\obj\Release\SAPRFC.csprojResolveAssemblyReference.cache
+F:\Project\TCS\RFCProxyBuilder\obj\Release\RFCProxyBuilder.FormProxyBuilder.resources
+F:\Project\TCS\RFCProxyBuilder\obj\Release\RFCProxyBuilder.Properties.Resources.resources
+F:\Project\TCS\RFCProxyBuilder\obj\Release\RFCProxyBuilder.SAPServerConnector.resources
+F:\Project\TCS\RFCProxyBuilder\obj\Release\SAPRFC.csproj.GenerateResource.Cache
+F:\Project\TCS\RFCProxyBuilder\obj\Release\RFCProxyBuilder.exe
+F:\Project\TCS\RFCProxyBuilder\obj\Release\RFCProxyBuilder.pdb

@@ -1,0 +1,6 @@
+F:\Project\TCS\SAPCOM\SAPCOM\bin\Debug\SAPCOM.dll
+F:\Project\TCS\SAPCOM\SAPCOM\bin\Debug\SAPCOM.pdb
+F:\Project\TCS\SAPCOM\SAPCOM\bin\Debug\Searching.VTCore.dll
+F:\Project\TCS\SAPCOM\SAPCOM\bin\Debug\SearchingCore.dll
+F:\Project\TCS\SAPCOM\SAPCOM\obj\Debug\SAPCOM.dll
+F:\Project\TCS\SAPCOM\SAPCOM\obj\Debug\SAPCOM.pdb

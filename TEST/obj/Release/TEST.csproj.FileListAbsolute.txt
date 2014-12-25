@@ -1,0 +1,5 @@
+F:\Project\TCS\TEST\bin\Release\TEST.exe
+F:\Project\TCS\TEST\bin\Release\TEST.pdb
+F:\Project\TCS\TEST\obj\Release\TEST.exe
+F:\Project\TCS\TEST\obj\Release\TEST.pdb
+F:\Project\TCS\TEST\obj\Release\TEST.csprojResolveAssemblyReference.cache

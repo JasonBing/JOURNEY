@@ -1,0 +1,5 @@
+F:\Project\TCS\TCSDBCore\bin\Release\TCSDBCore.dll
+F:\Project\TCS\TCSDBCore\bin\Release\TCSDBCore.pdb
+F:\Project\TCS\TCSDBCore\obj\Release\TCSDBCore.dll
+F:\Project\TCS\TCSDBCore\obj\Release\TCSDBCore.pdb
+F:\Project\TCS\TCSDBCore\obj\Release\TCSDBCore.csprojResolveAssemblyReference.cache

@@ -1,0 +1,342 @@
+**** Log file opened by process 11256 at 2014-12-16 14:12:18 (UTC+08:00 中国标准时间)
+
+SAP .NET Connector 3.0 with file version 3.0.8.0 running on 32-bit .NET Framework 4.0.30319.34011
+Program: F:\Project\TCS\SAPRFCBuilder\bin\Debug\SAPRFCBuilder.vshost.exe
+Working directory: F:\Project\TCS\SAPRFCBuilder\bin\Debug
+Operating system:  Professional 64-bit 
+Processor: 4x AMD64 (or x64)
+SAP release: 720, Kernel release: 720, Kernel patch level: 315
+Hostname: JOURNEY, IP address: 192.168.1.1, IP_v6 address: 
+
+Default trace level: None
+
+>> Error entry 2014-12-16 14:12:18.628 [Thread 10]
+[NAME=JOURNEY ASHOST=192.168.7.210 CLIENT=100 USER=journey PASSWD=******** SYSNR=00 LANG=EN]
+SAP.Middleware.Connector.RfcAbapException: NO_FUNCTION_FOUND
+   在 SAP.Middleware.Connector.RfcConnection.ThrowRfcErrorMsg()
+   在 SAP.Middleware.Connector.RfcConnection.RfcReceive(RfcFunction function)
+   在 SAP.Middleware.Connector.RfcFunction.RfcDeserialize(RfcConnection conn, IRfcIOStream stream)
+   在 SAP.Middleware.Connector.RfcFunction.RfcCallReceive(RfcConnection conn, IRfcIOStream stream, RFCID rid)
+   在 SAP.Middleware.Connector.RfcFunction.RfcCallReceive(RfcConnection conn)
+   在 SAP.Middleware.Connector.RfcFunction.Invoke(RfcDestination destination)
+>> Error entry 2014-12-16 14:14:11.351 [Thread 10]
+[NAME=JOURNEY ASHOST=192.168.7.210 CLIENT=100 USER=journey PASSWD=******** SYSNR=00 LANG=EN]
+SAP.Middleware.Connector.RfcAbapException: NO_FUNCTION_FOUND
+   在 SAP.Middleware.Connector.RfcConnection.ThrowRfcErrorMsg()
+   在 SAP.Middleware.Connector.RfcConnection.RfcReceive(RfcFunction function)
+   在 SAP.Middleware.Connector.RfcFunction.RfcDeserialize(RfcConnection conn, IRfcIOStream stream)
+   在 SAP.Middleware.Connector.RfcFunction.RfcCallReceive(RfcConnection conn, IRfcIOStream stream, RFCID rid)
+   在 SAP.Middleware.Connector.RfcFunction.RfcCallReceive(RfcConnection conn)
+   在 SAP.Middleware.Connector.RfcFunction.Invoke(RfcDestination destination)
+>> Error entry 2014-12-16 14:15:39.944 [Thread 10]
+[NAME=JOURNEY ASHOST=192.168.7.210 CLIENT=100 USER=journey PASSWD=******** SYSNR=00 LANG=EN]
+SAP.Middleware.Connector.RfcAbapException: NO_FUNCTION_FOUND
+   在 SAP.Middleware.Connector.RfcConnection.ThrowRfcErrorMsg()
+   在 SAP.Middleware.Connector.RfcConnection.RfcReceive(RfcFunction function)
+   在 SAP.Middleware.Connector.RfcFunction.RfcDeserialize(RfcConnection conn, IRfcIOStream stream)
+   在 SAP.Middleware.Connector.RfcFunction.RfcCallReceive(RfcConnection conn, IRfcIOStream stream, RFCID rid)
+   在 SAP.Middleware.Connector.RfcFunction.RfcCallReceive(RfcConnection conn)
+   在 SAP.Middleware.Connector.RfcFunction.Invoke(RfcDestination destination)
+**** Log file opened by process 11112 at 2014-12-16 14:38:57 (UTC+08:00 中国标准时间)
+
+SAP .NET Connector 3.0 with file version 3.0.8.0 running on 32-bit .NET Framework 4.0.30319.34011
+Program: F:\Project\TCS\SAPRFCBuilder\bin\Debug\SAPRFCBuilder.vshost.exe
+Working directory: F:\Project\TCS\SAPRFCBuilder\bin\Debug
+Operating system:  Professional 64-bit 
+Processor: 4x AMD64 (or x64)
+SAP release: 720, Kernel release: 720, Kernel patch level: 315
+Hostname: JOURNEY, IP address: 192.168.1.1, IP_v6 address: 
+
+Default trace level: None
+
+>> Error entry 2014-12-16 14:38:57.979 [Thread 10]
+[NAME=JOURNEY ASHOST=192.168.7.210 CLIENT=100 USER=journey PASSWD=******** SYSNR=00 LANG=EN]
+SAP.Middleware.Connector.RfcAbapException: NO_FUNCTION_FOUND
+   在 SAP.Middleware.Connector.RfcConnection.ThrowRfcErrorMsg()
+   在 SAP.Middleware.Connector.RfcConnection.RfcReceive(RfcFunction function)
+   在 SAP.Middleware.Connector.RfcFunction.RfcDeserialize(RfcConnection conn, IRfcIOStream stream)
+   在 SAP.Middleware.Connector.RfcFunction.RfcCallReceive(RfcConnection conn, IRfcIOStream stream, RFCID rid)
+   在 SAP.Middleware.Connector.RfcFunction.RfcCallReceive(RfcConnection conn)
+   在 SAP.Middleware.Connector.RfcFunction.Invoke(RfcDestination destination)
+**** Log file opened by process 1568 at 2014-12-16 14:42:28 (UTC+08:00 中国标准时间)
+
+SAP .NET Connector 3.0 with file version 3.0.8.0 running on 32-bit .NET Framework 4.0.30319.34011
+Program: F:\Project\TCS\SAPRFCBuilder\bin\Debug\SAPRFCBuilder.vshost.exe
+Working directory: F:\Project\TCS\SAPRFCBuilder\bin\Debug
+Operating system:  Professional 64-bit 
+Processor: 4x AMD64 (or x64)
+SAP release: 720, Kernel release: 720, Kernel patch level: 315
+Hostname: JOURNEY, IP address: 192.168.1.1, IP_v6 address: 
+
+Default trace level: None
+
+>> Error entry 2014-12-16 14:42:28.757 [Thread 9]
+Failure to create pool for destination JOURNEY (ORIGINAL) [NAME=JOURNEY ASHOST=192.168.7.210 CLIENT=100 USER=joruney PASSWD=******** SYSNR=00 LANG=EN]
+SAP.Middleware.Connector.RfcLogonException: Name or password is incorrect (repeat logon) ---> SAP.Middleware.Connector.RfcAbapMessageException: Name or password is incorrect (repeat logon)
+   在 SAP.Middleware.Connector.RfcConnection.ThrowRfcErrorMsg()
+   在 SAP.Middleware.Connector.RfcConnection.ReadBytes(Byte* buffer, Int32 count)
+   在 SAP.Middleware.Connector.RfcConnection.ReadRfcIDBegin(Int32& length)
+   在 SAP.Middleware.Connector.RfcConnection.ReadUpTo(RFCGET readState, RfcFunction function, RFCID toRid)
+   在 SAP.Middleware.Connector.RfcConnection.RfcReceive(RfcFunction function)
+   在 SAP.Middleware.Connector.RfcConnection.ConnectAsClient(RfcConfigParameters options)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 SAP.Middleware.Connector.RfcConnection.ConnectAsClient(RfcConfigParameters options)
+   在 SAP.Middleware.Connector.RfcConnectionPool..ctor(RfcDestination destination, Boolean forRepositoryCalls)
+>> Error entry 2014-12-16 14:42:28.785 [Thread 9]
+[NAME=JOURNEY ASHOST=192.168.7.210 CLIENT=100 USER=joruney PASSWD=******** SYSNR=00 LANG=EN]
+SAP.Middleware.Connector.RfcLogonException: Name or password is incorrect (repeat logon) ---> SAP.Middleware.Connector.RfcAbapMessageException: Name or password is incorrect (repeat logon)
+   在 SAP.Middleware.Connector.RfcConnection.ThrowRfcErrorMsg()
+   在 SAP.Middleware.Connector.RfcConnection.ReadBytes(Byte* buffer, Int32 count)
+   在 SAP.Middleware.Connector.RfcConnection.ReadRfcIDBegin(Int32& length)
+   在 SAP.Middleware.Connector.RfcConnection.ReadUpTo(RFCGET readState, RfcFunction function, RFCID toRid)
+   在 SAP.Middleware.Connector.RfcConnection.RfcReceive(RfcFunction function)
+   在 SAP.Middleware.Connector.RfcConnection.ConnectAsClient(RfcConfigParameters options)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 SAP.Middleware.Connector.RfcConnection.ConnectAsClient(RfcConfigParameters options)
+   在 SAP.Middleware.Connector.RfcConnectionPool..ctor(RfcDestination destination, Boolean forRepositoryCalls)
+   在 SAP.Middleware.Connector.RfcConnectionPool.GetPool(RfcDestination destination, Boolean forRepository, Boolean create)
+   在 SAP.Middleware.Connector.RfcDestination.GetClient(Boolean forRepository)
+   在 SAP.Middleware.Connector.RfcDestination.SetAttributeValues(RfcSystemAttributes attribs)
+>> Error entry 2014-12-16 14:43:27.715 [Thread 9]
+Failure to create pool for destination JOURNEY (ORIGINAL) [NAME=JOURNEY ASHOST=192.168.7.210 CLIENT=100 USER=joruney PASSWD=******** SYSNR=00 LANG=EN]
+SAP.Middleware.Connector.RfcLogonException: Name or password is incorrect (repeat logon) ---> SAP.Middleware.Connector.RfcAbapMessageException: Name or password is incorrect (repeat logon)
+   在 SAP.Middleware.Connector.RfcConnection.ThrowRfcErrorMsg()
+   在 SAP.Middleware.Connector.RfcConnection.ReadBytes(Byte* buffer, Int32 count)
+   在 SAP.Middleware.Connector.RfcConnection.ReadRfcIDBegin(Int32& length)
+   在 SAP.Middleware.Connector.RfcConnection.ReadUpTo(RFCGET readState, RfcFunction function, RFCID toRid)
+   在 SAP.Middleware.Connector.RfcConnection.RfcReceive(RfcFunction function)
+   在 SAP.Middleware.Connector.RfcConnection.ConnectAsClient(RfcConfigParameters options)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 SAP.Middleware.Connector.RfcConnection.ConnectAsClient(RfcConfigParameters options)
+   在 SAP.Middleware.Connector.RfcConnectionPool..ctor(RfcDestination destination, Boolean forRepositoryCalls)
+>> Error entry 2014-12-16 14:43:27.761 [Thread 9]
+[NAME=JOURNEY ASHOST=192.168.7.210 CLIENT=100 USER=joruney PASSWD=******** SYSNR=00 LANG=EN]
+SAP.Middleware.Connector.RfcLogonException: Name or password is incorrect (repeat logon) ---> SAP.Middleware.Connector.RfcAbapMessageException: Name or password is incorrect (repeat logon)
+   在 SAP.Middleware.Connector.RfcConnection.ThrowRfcErrorMsg()
+   在 SAP.Middleware.Connector.RfcConnection.ReadBytes(Byte* buffer, Int32 count)
+   在 SAP.Middleware.Connector.RfcConnection.ReadRfcIDBegin(Int32& length)
+   在 SAP.Middleware.Connector.RfcConnection.ReadUpTo(RFCGET readState, RfcFunction function, RFCID toRid)
+   在 SAP.Middleware.Connector.RfcConnection.RfcReceive(RfcFunction function)
+   在 SAP.Middleware.Connector.RfcConnection.ConnectAsClient(RfcConfigParameters options)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 SAP.Middleware.Connector.RfcConnection.ConnectAsClient(RfcConfigParameters options)
+   在 SAP.Middleware.Connector.RfcConnectionPool..ctor(RfcDestination destination, Boolean forRepositoryCalls)
+   在 SAP.Middleware.Connector.RfcConnectionPool.GetPool(RfcDestination destination, Boolean forRepository, Boolean create)
+   在 SAP.Middleware.Connector.RfcDestination.GetClient(Boolean forRepository)
+   在 SAP.Middleware.Connector.RfcDestination.SetAttributeValues(RfcSystemAttributes attribs)
+**** Log file opened by process 11096 at 2014-12-16 14:50:58 (UTC+08:00 中国标准时间)
+
+SAP .NET Connector 3.0 with file version 3.0.8.0 running on 32-bit .NET Framework 4.0.30319.34011
+Program: F:\Project\TCS\SAPRFCBuilder\bin\Debug\SAPRFCBuilder.vshost.exe
+Working directory: F:\Project\TCS\SAPRFCBuilder\bin\Debug
+Operating system:  Professional 64-bit 
+Processor: 4x AMD64 (or x64)
+SAP release: 720, Kernel release: 720, Kernel patch level: 315
+Hostname: JOURNEY, IP address: 192.168.1.1, IP_v6 address: 
+
+Default trace level: None
+
+>> Error entry 2014-12-16 14:50:58.876 [Thread 10]
+[NAME=JOURNEY ASHOST=192.168.7.210 CLIENT=100 USER=journey PASSWD=******** SYSNR=00 LANG=EN]
+SAP.Middleware.Connector.RfcAbapException: NO_FUNCTION_FOUND
+   在 SAP.Middleware.Connector.RfcConnection.ThrowRfcErrorMsg()
+   在 SAP.Middleware.Connector.RfcConnection.RfcReceive(RfcFunction function)
+   在 SAP.Middleware.Connector.RfcFunction.RfcDeserialize(RfcConnection conn, IRfcIOStream stream)
+   在 SAP.Middleware.Connector.RfcFunction.RfcCallReceive(RfcConnection conn, IRfcIOStream stream, RFCID rid)
+   在 SAP.Middleware.Connector.RfcFunction.RfcCallReceive(RfcConnection conn)
+   在 SAP.Middleware.Connector.RfcFunction.Invoke(RfcDestination destination)
+**** Log file opened by process 8136 at 2014-12-16 14:56:53 (UTC+08:00 中国标准时间)
+
+SAP .NET Connector 3.0 with file version 3.0.8.0 running on 32-bit .NET Framework 4.0.30319.34011
+Program: F:\Project\TCS\SAPRFCBuilder\bin\Debug\SAPRFCBuilder.vshost.exe
+Working directory: F:\Project\TCS\SAPRFCBuilder\bin\Debug
+Operating system:  Professional 64-bit 
+Processor: 4x AMD64 (or x64)
+SAP release: 720, Kernel release: 720, Kernel patch level: 315
+Hostname: JOURNEY, IP address: 192.168.1.1, IP_v6 address: 
+
+Default trace level: None
+
+>> Error entry 2014-12-16 14:56:53.263 [Thread 10]
+[NAME=JOURNEY ASHOST=192.168.7.210 CLIENT=100 USER=journey PASSWD=******** SYSNR=00 LANG=EN]
+SAP.Middleware.Connector.RfcAbapException: NO_FUNCTION_FOUND
+   在 SAP.Middleware.Connector.RfcConnection.ThrowRfcErrorMsg()
+   在 SAP.Middleware.Connector.RfcConnection.RfcReceive(RfcFunction function)
+   在 SAP.Middleware.Connector.RfcFunction.RfcDeserialize(RfcConnection conn, IRfcIOStream stream)
+   在 SAP.Middleware.Connector.RfcFunction.RfcCallReceive(RfcConnection conn, IRfcIOStream stream, RFCID rid)
+   在 SAP.Middleware.Connector.RfcFunction.RfcCallReceive(RfcConnection conn)
+   在 SAP.Middleware.Connector.RfcFunction.Invoke(RfcDestination destination)
+>> Error entry 2014-12-16 14:57:00.223 [Thread 10]
+[NAME=JOURNEY ASHOST=192.168.7.210 CLIENT=100 USER=journey PASSWD=******** SYSNR=00 LANG=EN]
+SAP.Middleware.Connector.RfcAbapException: NO_FUNCTION_FOUND
+   在 SAP.Middleware.Connector.RfcConnection.ThrowRfcErrorMsg()
+   在 SAP.Middleware.Connector.RfcConnection.RfcReceive(RfcFunction function)
+   在 SAP.Middleware.Connector.RfcFunction.RfcDeserialize(RfcConnection conn, IRfcIOStream stream)
+   在 SAP.Middleware.Connector.RfcFunction.RfcCallReceive(RfcConnection conn, IRfcIOStream stream, RFCID rid)
+   在 SAP.Middleware.Connector.RfcFunction.RfcCallReceive(RfcConnection conn)
+   在 SAP.Middleware.Connector.RfcFunction.Invoke(RfcDestination destination)
+**** Log file opened by process 9744 at 2014-12-16 15:10:16 (UTC+08:00 中国标准时间)
+
+SAP .NET Connector 3.0 with file version 3.0.8.0 running on 32-bit .NET Framework 4.0.30319.34011
+Program: F:\Project\TCS\SAPRFCBuilder\bin\Debug\SAPRFCBuilder.vshost.exe
+Working directory: F:\Project\TCS\SAPRFCBuilder\bin\Debug
+Operating system:  Professional 64-bit 
+Processor: 4x AMD64 (or x64)
+SAP release: 720, Kernel release: 720, Kernel patch level: 315
+Hostname: JOURNEY, IP address: 192.168.1.1, IP_v6 address: 
+
+Default trace level: None
+
+>> Error entry 2014-12-16 15:10:16.426 [Thread 10]
+Failure to create pool for destination JOURNEY (ORIGINAL) [NAME=JOURNEY ASHOST=192.168.7.210 CLIENT=100 USER= PASSWD=******** SYSNR=00 LANG=EN]
+SAP.Middleware.Connector.RfcLogonException: Incomplete logon data. ---> SAP.Middleware.Connector.RfcAbapRuntimeException: Incomplete logon data.
+   在 SAP.Middleware.Connector.RfcConnection.ThrowRfcErrorMsg()
+   在 SAP.Middleware.Connector.RfcConnection.ReadBytes(Byte* buffer, Int32 count)
+   在 SAP.Middleware.Connector.RfcConnection.ReadRfcIDBegin(Int32& length)
+   在 SAP.Middleware.Connector.RfcConnection.ReadUpTo(RFCGET readState, RfcFunction function, RFCID toRid)
+   在 SAP.Middleware.Connector.RfcConnection.RfcReceive(RfcFunction function)
+   在 SAP.Middleware.Connector.RfcConnection.ConnectAsClient(RfcConfigParameters options)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 SAP.Middleware.Connector.RfcConnection.ConnectAsClient(RfcConfigParameters options)
+   在 SAP.Middleware.Connector.RfcConnectionPool..ctor(RfcDestination destination, Boolean forRepositoryCalls)
+>> Error entry 2014-12-16 15:10:16.474 [Thread 10]
+[NAME=JOURNEY ASHOST=192.168.7.210 CLIENT=100 USER= PASSWD=******** SYSNR=00 LANG=EN]
+SAP.Middleware.Connector.RfcLogonException: Incomplete logon data. ---> SAP.Middleware.Connector.RfcAbapRuntimeException: Incomplete logon data.
+   在 SAP.Middleware.Connector.RfcConnection.ThrowRfcErrorMsg()
+   在 SAP.Middleware.Connector.RfcConnection.ReadBytes(Byte* buffer, Int32 count)
+   在 SAP.Middleware.Connector.RfcConnection.ReadRfcIDBegin(Int32& length)
+   在 SAP.Middleware.Connector.RfcConnection.ReadUpTo(RFCGET readState, RfcFunction function, RFCID toRid)
+   在 SAP.Middleware.Connector.RfcConnection.RfcReceive(RfcFunction function)
+   在 SAP.Middleware.Connector.RfcConnection.ConnectAsClient(RfcConfigParameters options)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 SAP.Middleware.Connector.RfcConnection.ConnectAsClient(RfcConfigParameters options)
+   在 SAP.Middleware.Connector.RfcConnectionPool..ctor(RfcDestination destination, Boolean forRepositoryCalls)
+   在 SAP.Middleware.Connector.RfcConnectionPool.GetPool(RfcDestination destination, Boolean forRepository, Boolean create)
+   在 SAP.Middleware.Connector.RfcDestination.GetClient(Boolean forRepository)
+   在 SAP.Middleware.Connector.RfcDestination.SetAttributeValues(RfcSystemAttributes attribs)
+>> Error entry 2014-12-16 15:11:02.749 [Thread 10]
+Failure to create pool for destination JOURNEY (ORIGINAL) [NAME=JOURNEY ASHOST=192.168.7.210 CLIENT=100 USER=journey PASSWD=******** SYSNR=00 LANG=EN]
+SAP.Middleware.Connector.RfcLogonException: Name or password is incorrect (repeat logon) ---> SAP.Middleware.Connector.RfcAbapMessageException: Name or password is incorrect (repeat logon)
+   在 SAP.Middleware.Connector.RfcConnection.ThrowRfcErrorMsg()
+   在 SAP.Middleware.Connector.RfcConnection.ReadBytes(Byte* buffer, Int32 count)
+   在 SAP.Middleware.Connector.RfcConnection.ReadRfcIDBegin(Int32& length)
+   在 SAP.Middleware.Connector.RfcConnection.ReadUpTo(RFCGET readState, RfcFunction function, RFCID toRid)
+   在 SAP.Middleware.Connector.RfcConnection.RfcReceive(RfcFunction function)
+   在 SAP.Middleware.Connector.RfcConnection.ConnectAsClient(RfcConfigParameters options)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 SAP.Middleware.Connector.RfcConnection.ConnectAsClient(RfcConfigParameters options)
+   在 SAP.Middleware.Connector.RfcConnectionPool..ctor(RfcDestination destination, Boolean forRepositoryCalls)
+>> Error entry 2014-12-16 15:11:02.773 [Thread 10]
+[NAME=JOURNEY ASHOST=192.168.7.210 CLIENT=100 USER=journey PASSWD=******** SYSNR=00 LANG=EN]
+SAP.Middleware.Connector.RfcLogonException: Name or password is incorrect (repeat logon) ---> SAP.Middleware.Connector.RfcAbapMessageException: Name or password is incorrect (repeat logon)
+   在 SAP.Middleware.Connector.RfcConnection.ThrowRfcErrorMsg()
+   在 SAP.Middleware.Connector.RfcConnection.ReadBytes(Byte* buffer, Int32 count)
+   在 SAP.Middleware.Connector.RfcConnection.ReadRfcIDBegin(Int32& length)
+   在 SAP.Middleware.Connector.RfcConnection.ReadUpTo(RFCGET readState, RfcFunction function, RFCID toRid)
+   在 SAP.Middleware.Connector.RfcConnection.RfcReceive(RfcFunction function)
+   在 SAP.Middleware.Connector.RfcConnection.ConnectAsClient(RfcConfigParameters options)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 SAP.Middleware.Connector.RfcConnection.ConnectAsClient(RfcConfigParameters options)
+   在 SAP.Middleware.Connector.RfcConnectionPool..ctor(RfcDestination destination, Boolean forRepositoryCalls)
+   在 SAP.Middleware.Connector.RfcConnectionPool.GetPool(RfcDestination destination, Boolean forRepository, Boolean create)
+   在 SAP.Middleware.Connector.RfcDestination.GetClient(Boolean forRepository)
+   在 SAP.Middleware.Connector.RfcDestination.SetAttributeValues(RfcSystemAttributes attribs)
+**** Log file opened by process 8952 at 2014-12-17 10:47:35 (UTC+08:00 中国标准时间)
+
+SAP .NET Connector 3.0 with file version 3.0.8.0 running on 32-bit .NET Framework 4.0.30319.34011
+Program: F:\Project\TCS\SAPRFCBuilder\bin\Debug\SAPRFCBuilder.vshost.exe
+Working directory: F:\Project\TCS\SAPRFCBuilder\bin\Debug
+Operating system:  Professional 64-bit 
+Processor: 4x AMD64 (or x64)
+SAP release: 720, Kernel release: 720, Kernel patch level: 315
+Hostname: JOURNEY, IP address: 192.168.1.1, IP_v6 address: 
+
+Default trace level: None
+
+>> Error entry 2014-12-17 10:47:35.758 [Thread 10]
+Failure to create pool for destination JOURNEY (ORIGINAL) [NAME=JOURNEY ASHOST=192.168.7.210 CLIENT=100 USER=journey PASSWD=******** SYSNR=00 LANG=EN]
+SAP.Middleware.Connector.RfcCommunicationException: 
+LOCATION    CPIC (TCP/IP) on local host with Unicode
+ERROR       partner '192.168.7.210:3300' not reached
+TIME        Wed Dec 17 10:47:35 2014
+RELEASE     720
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3286
+DETAIL      NiPConnect2: 192.168.7.210:3300
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     2
+
+   在 SAP.Middleware.Connector.CpicConnection.ConnectAsClient(Dictionary`2 options)
+   在 SAP.Middleware.Connector.RfcConnection.ConnectAsClient(RfcConfigParameters options)
+   在 SAP.Middleware.Connector.RfcConnectionPool..ctor(RfcDestination destination, Boolean forRepositoryCalls)
+>> Error entry 2014-12-17 10:47:35.782 [Thread 10]
+[NAME=JOURNEY ASHOST=192.168.7.210 CLIENT=100 USER=journey PASSWD=******** SYSNR=00 LANG=EN]
+SAP.Middleware.Connector.RfcCommunicationException: 
+LOCATION    CPIC (TCP/IP) on local host with Unicode
+ERROR       partner '192.168.7.210:3300' not reached
+TIME        Wed Dec 17 10:47:35 2014
+RELEASE     720
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3286
+DETAIL      NiPConnect2: 192.168.7.210:3300
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     2
+
+   在 SAP.Middleware.Connector.CpicConnection.ConnectAsClient(Dictionary`2 options)
+   在 SAP.Middleware.Connector.RfcConnection.ConnectAsClient(RfcConfigParameters options)
+   在 SAP.Middleware.Connector.RfcConnectionPool..ctor(RfcDestination destination, Boolean forRepositoryCalls)
+   在 SAP.Middleware.Connector.RfcConnectionPool.GetPool(RfcDestination destination, Boolean forRepository, Boolean create)
+   在 SAP.Middleware.Connector.RfcDestination.GetClient(Boolean forRepository)
+   在 SAP.Middleware.Connector.RfcDestination.SetAttributeValues(RfcSystemAttributes attribs)
+**** Log file opened by process 1688 at 2014-12-17 11:07:38 (UTC+08:00 中国标准时间)
+
+SAP .NET Connector 3.0 with file version 3.0.8.0 running on 32-bit .NET Framework 4.0.30319.34011
+Program: F:\Project\TCS\SAPRFCBuilder\bin\Debug\SAPRFCBuilder.vshost.exe
+Working directory: F:\Project\TCS\SAPRFCBuilder\bin\Debug
+Operating system:  Professional 64-bit 
+Processor: 4x AMD64 (or x64)
+SAP release: 720, Kernel release: 720, Kernel patch level: 315
+Hostname: JOURNEY, IP address: 192.168.1.1, IP_v6 address: 
+
+Default trace level: None
+
+>> Error entry 2014-12-17 11:07:38.140 [Thread 9]
+[NAME=JOURNEY ASHOST=192.168.7.210 CLIENT=100 USER=journey PASSWD=******** SYSNR=00 LANG=EN]
+SAP.Middleware.Connector.RfcAbapException: FU_NOT_FOUND
+   在 SAP.Middleware.Connector.RfcConnection.ThrowRfcErrorMsg()
+   在 SAP.Middleware.Connector.RfcConnection.RfcReceive(RfcFunction function)
+   在 SAP.Middleware.Connector.RfcFunction.RfcDeserialize(RfcConnection conn, IRfcIOStream stream)
+   在 SAP.Middleware.Connector.RfcFunction.RfcCallReceive(RfcConnection conn, IRfcIOStream stream, RFCID rid)
+   在 SAP.Middleware.Connector.RfcFunction.RfcCallReceive(RfcConnection conn)
+   在 SAP.Middleware.Connector.RfcFunction.Invoke(RfcDestination destination)
+**** Log file opened by process 10068 at 2014-12-17 11:11:31 (UTC+08:00 中国标准时间)
+
+SAP .NET Connector 3.0 with file version 3.0.8.0 running on 32-bit .NET Framework 4.0.30319.34011
+Program: F:\Project\TCS\SAPRFCBuilder\bin\Debug\SAPRFCBuilder.vshost.exe
+Working directory: F:\Project\TCS\SAPRFCBuilder\bin\Debug
+Operating system:  Professional 64-bit 
+Processor: 4x AMD64 (or x64)
+SAP release: 720, Kernel release: 720, Kernel patch level: 315
+Hostname: JOURNEY, IP address: 192.168.1.1, IP_v6 address: 
+
+Default trace level: None
+
+>> Error entry 2014-12-17 11:11:31.536 [Thread 9]
+[NAME=JOURNEY ASHOST=192.168.7.210 CLIENT=100 USER=journey PASSWD=******** SYSNR=00 LANG=EN]
+SAP.Middleware.Connector.RfcAbapException: NO_FUNCTION_FOUND
+   在 SAP.Middleware.Connector.RfcConnection.ThrowRfcErrorMsg()
+   在 SAP.Middleware.Connector.RfcConnection.RfcReceive(RfcFunction function)
+   在 SAP.Middleware.Connector.RfcFunction.RfcDeserialize(RfcConnection conn, IRfcIOStream stream)
+   在 SAP.Middleware.Connector.RfcFunction.RfcCallReceive(RfcConnection conn, IRfcIOStream stream, RFCID rid)
+   在 SAP.Middleware.Connector.RfcFunction.RfcCallReceive(RfcConnection conn)
+   在 SAP.Middleware.Connector.RfcFunction.Invoke(RfcDestination destination)

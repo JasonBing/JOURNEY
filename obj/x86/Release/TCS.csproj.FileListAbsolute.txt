@@ -1,0 +1,12 @@
+F:\Project\TCS\bin\Release\TCS.exe
+F:\Project\TCS\bin\Release\TCS.pdb
+F:\Project\TCS\obj\x86\Release\TCS.g.resources
+F:\Project\TCS\obj\x86\Release\TCS.ControlFind.resources
+F:\Project\TCS\obj\x86\Release\TCS.FormCommunicate.resources
+F:\Project\TCS\obj\x86\Release\TCS.FormLogin.resources
+F:\Project\TCS\obj\x86\Release\TCS.FormMain.resources
+F:\Project\TCS\obj\x86\Release\TCS.Properties.Resources.resources
+F:\Project\TCS\obj\x86\Release\TCS.csproj.GenerateResource.Cache
+F:\Project\TCS\obj\x86\Release\TCS.exe
+F:\Project\TCS\obj\x86\Release\TCS.pdb
+F:\Project\TCS\obj\x86\Release\TCS.csprojResolveAssemblyReference.cache

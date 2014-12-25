@@ -1,0 +1,4 @@
+F:\Project\TCS\TCSDBCore\bin\Debug\TCSDBCore.dll
+F:\Project\TCS\TCSDBCore\bin\Debug\TCSDBCore.pdb
+F:\Project\TCS\TCSDBCore\obj\Debug\TCSDBCore.dll
+F:\Project\TCS\TCSDBCore\obj\Debug\TCSDBCore.pdb

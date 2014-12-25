@@ -1,0 +1,29 @@
+D:\编程资料\工程作品\VS CSharp工程\Net培训班\QX局域网通信软件\QX局域网通信软件\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\编程资料\工程作品\VS CSharp工程\Net培训班\QX局域网通信软件\QX局域网通信软件\obj\x86\Debug\QX局域网通信软件.Properties.Resources.resources
+D:\编程资料\工程作品\VS CSharp工程\Net培训班\QX局域网通信软件\QX局域网通信软件\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\编程资料\工程作品\VS CSharp工程\Net培训班\QX局域网通信软件\QX局域网通信软件\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\编程资料\工程作品\VS CSharp工程\Net培训班\QX局域网通信软件\QX局域网通信软件\bin\Debug\QX局域网通信软件.exe
+D:\编程资料\工程作品\VS CSharp工程\Net培训班\QX局域网通信软件\QX局域网通信软件\bin\Debug\QX局域网通信软件.pdb
+D:\编程资料\工程作品\VS CSharp工程\Net培训班\QX局域网通信软件\QX局域网通信软件\obj\x86\Debug\QX局域网通信软件.exe
+D:\编程资料\工程作品\VS CSharp工程\Net培训班\QX局域网通信软件\QX局域网通信软件\obj\x86\Debug\QX局域网通信软件.pdb
+D:\编程资料\工程作品\VS CSharp工程\Net培训班\QX局域网通信软件\QX局域网通信软件\obj\x86\Debug\QX局域网通信软件.ControlFind.resources
+D:\编程资料\工程作品\VS CSharp工程\Net培训班\QX局域网通信软件\QX局域网通信软件\obj\x86\Debug\QX局域网通信软件.FormMain.resources
+D:\编程资料\工程作品\VS CSharp工程\Net培训班\QX局域网通信软件\QX局域网通信软件\obj\x86\Debug\QX局域网通信软件.FormCommunicate.resources
+D:\编程资料\工程作品\VS CSharp工程\Net培训班\QX局域网通信软件\QX局域网通信软件\obj\x86\Debug\GenerateResource.read.215.tlog
+D:\编程资料\工程作品\VS CSharp工程\Net培训班\QX局域网通信软件\QX局域网通信软件\obj\x86\Debug\GenerateResource.write.215.tlog
+D:\编程资料\工程作品\VS CSharp工程\Net培训班\QX局域网通信软件\QX局域网通信软件\obj\x86\Debug\GenerateResource.write.311.tlog
+D:\编程资料\工程作品\VS CSharp工程\Net培训班\QX局域网通信软件\QX局域网通信软件\obj\x86\Debug\GenerateResource.read.320.tlog
+D:\编程资料\工程作品\VS CSharp工程\Net培训班\QX局域网通信软件\QX局域网通信软件\obj\x86\Debug\QX局域网通信软件.g.resources
+C:\Users\Journey\Desktop\QX局域网通信软件\QX局域网通信软件\obj\x86\Debug\QX局域网通信软件.exe
+C:\Users\Journey\Desktop\QX局域网通信软件\QX局域网通信软件\obj\x86\Debug\QX局域网通信软件.pdb
+C:\Users\Journey\Desktop\QX局域网通信软件\QX局域网通信软件\bin\Debug\QX局域网通信软件.exe
+C:\Users\Journey\Desktop\QX局域网通信软件\QX局域网通信软件\bin\Debug\QX局域网通信软件.pdb
+C:\Users\Journey\Desktop\QX局域网通信软件\QX局域网通信软件\obj\x86\Debug\QX局域网通信软件.csprojResolveAssemblyReference.cache
+C:\Users\Journey\Desktop\QX局域网通信软件\QX局域网通信软件\obj\x86\Debug\QX局域网通信软件.g.resources
+C:\Users\Journey\Desktop\QX局域网通信软件\QX局域网通信软件\obj\x86\Debug\QX局域网通信软件.ControlFind.resources
+C:\Users\Journey\Desktop\QX局域网通信软件\QX局域网通信软件\obj\x86\Debug\QX局域网通信软件.FormCommunicate.resources
+C:\Users\Journey\Desktop\QX局域网通信软件\QX局域网通信软件\obj\x86\Debug\QX局域网通信软件.FormMain.resources
+C:\Users\Journey\Desktop\QX局域网通信软件\QX局域网通信软件\obj\x86\Debug\QX局域网通信软件.Properties.Resources.resources
+C:\Users\Journey\Desktop\QX局域网通信软件\QX局域网通信软件\obj\x86\Debug\QX局域网通信软件.csproj.GenerateResource.Cache
+F:\Project\TCS\obj\x86\Debug\QX局域网通信软件.exe
+F:\Project\TCS\obj\x86\Debug\QX局域网通信软件.pdb

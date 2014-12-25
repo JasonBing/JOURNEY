@@ -1,0 +1,11 @@
+F:\Project\TCS\bin\Debug\TCS.exe
+F:\Project\TCS\bin\Debug\TCS.pdb
+F:\Project\TCS\obj\x86\Debug\TCS.g.resources
+F:\Project\TCS\obj\x86\Debug\TCS.ControlFind.resources
+F:\Project\TCS\obj\x86\Debug\TCS.FormCommunicate.resources
+F:\Project\TCS\obj\x86\Debug\TCS.FormLogin.resources
+F:\Project\TCS\obj\x86\Debug\TCS.FormMain.resources
+F:\Project\TCS\obj\x86\Debug\TCS.Properties.Resources.resources
+F:\Project\TCS\obj\x86\Debug\TCS.csproj.GenerateResource.Cache
+F:\Project\TCS\obj\x86\Debug\TCS.exe
+F:\Project\TCS\obj\x86\Debug\TCS.pdb

@@ -1,0 +1,9 @@
+F:\Project\TCS\SAPCOM\SAPCOM\bin\Release\SAPCOM.dll
+F:\Project\TCS\SAPCOM\SAPCOM\bin\Release\SAPCOM.pdb
+F:\Project\TCS\SAPCOM\SAPCOM\bin\Release\sapnco.dll
+F:\Project\TCS\SAPCOM\SAPCOM\bin\Release\sapnco_utils.dll
+F:\Project\TCS\SAPCOM\SAPCOM\obj\Release\SAPCOM.dll
+F:\Project\TCS\SAPCOM\SAPCOM\obj\Release\SAPCOM.pdb
+F:\Project\TCS\SAPCOM\SAPCOM\obj\Release\SAPCOM.csprojResolveAssemblyReference.cache
+F:\Project\TCS\SAPCOM\SAPCOM\bin\Release\Searching.VTCore.dll
+F:\Project\TCS\SAPCOM\SAPCOM\bin\Release\SearchingCore.dll

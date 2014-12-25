@@ -1,0 +1,4 @@
+F:\Project\TCS\WX_CMD\bin\Debug\WX_CMD.exe
+F:\Project\TCS\WX_CMD\bin\Debug\WX_CMD.pdb
+F:\Project\TCS\WX_CMD\obj\Debug\WX_CMD.exe
+F:\Project\TCS\WX_CMD\obj\Debug\WX_CMD.pdb
